@@ -1185,6 +1185,15 @@ chrome://extensions/ → Click reload icon
 
 ### Future Versions
 
+**v1.8.0 - Chrome i18n API Refactoring (Planned)**
+- Migrate from custom i18n to official Chrome i18n API
+- Create `_locales/en/messages.json` and `_locales/es/messages.json`
+- Replace TranslationService with `chrome.i18n.getMessage()`
+- Simplify/remove: TranslationService, LanguageDetector, StatusFormatter
+- Update manifest.json with `"default_locale": "en"`
+- More standard Chrome extension architecture
+- Update all affected tests
+
 **v2.0 - Enhanced Features**
 - Timer end notifications
 - Pause/resume
