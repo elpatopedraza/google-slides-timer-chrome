@@ -997,6 +997,27 @@ npm test -- TimeFormatter.test.js
 
 ## Development Workflow
 
+### ⚠️ PERMISSION PROTOCOL FOR CLAUDE CODE SESSIONS
+
+**Always ask for explicit permission before:**
+- ✅ Making any file edits (Edit, Write tools)
+- ✅ Committing changes to git
+- ✅ Pushing to remote repository
+- ✅ Deleting or moving files
+- ✅ Running destructive commands (rm, git reset, etc.)
+
+**How to ask:**
+1. Explain what changes you plan to make
+2. Show the changes if possible
+3. Ask: "Should I proceed with these changes?"
+4. Wait for explicit approval ("yes", "ok", "do it", "proceed")
+
+**Never assume permission** - even for "obvious" fixes or improvements.
+
+**Exception:** Read-only operations (Read, Grep, Glob, Bash with read-only commands) don't require permission.
+
+**User can interrupt:** If a tool call starts without permission, user will stop it - wait for instructions.
+
 ### ⚠️ CRITICAL RULES FOR ANY CODE CHANGES
 
 **ALL changes to this codebase MUST follow these rules:**
