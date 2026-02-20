@@ -61,12 +61,12 @@ We may update this privacy policy from time to time. The "Last Updated" date at 
 ## Open Source
 
 This Extension is open source. You can review the complete source code at:
-https://github.com/elpatopedraza/google-slides-timer-chrome
+https://github.com/duckwaresoft/google-slides-timer-chrome
 
 ## Contact
 
 If you have questions about this privacy policy, please open an issue on GitHub:
-https://github.com/elpatopedraza/google-slides-timer-chrome/issues
+https://github.com/duckwaresoft/google-slides-timer-chrome/issues
 
 ---
 

@@ -1,7 +1,7 @@
 # Slides Timer for Google Slides
 
-[![Tests & Coverage](https://github.com/elpatopedraza/google-slides-timer-chrome/actions/workflows/test-coverage.yml/badge.svg?branch=main)](https://github.com/elpatopedraza/google-slides-timer-chrome/actions/workflows/test-coverage.yml)
-[![codecov](https://codecov.io/gh/elpatopedraza/google-slides-timer-chrome/branch/main/graph/badge.svg)](https://codecov.io/gh/elpatopedraza/google-slides-timer-chrome)
+[![Tests & Coverage](https://github.com/duckwaresoft/google-slides-timer-chrome/actions/workflows/test-coverage.yml/badge.svg?branch=main)](https://github.com/duckwaresoft/google-slides-timer-chrome/actions/workflows/test-coverage.yml)
+[![codecov](https://codecov.io/gh/duckwaresoft/google-slides-timer-chrome/branch/main/graph/badge.svg)](https://codecov.io/gh/duckwaresoft/google-slides-timer-chrome)
 
 A Chrome extension that replaces placeholder text in Google Slides with real-time timer and session information during presentations. Add dynamic countdowns, session schedules, and live clocks to your presentations.
 
@@ -520,7 +520,7 @@ git push origin v1.8.0
 ```
 
 **4. Create GitHub Release:**
-1. Go to: https://github.com/elpatopedraza/google-slides-timer-chrome/releases/new
+1. Go to: https://github.com/duckwaresoft/google-slides-timer-chrome/releases/new
 2. Select tag: `v1.8.0`
 3. Auto-generate release notes or use tag message
 4. Attach ZIP file for Chrome Web Store (see below)
@@ -555,8 +555,8 @@ This creates a clean package containing only:
 
 #### View All Releases
 
-- **Tags**: https://github.com/elpatopedraza/google-slides-timer-chrome/tags
-- **Releases**: https://github.com/elpatopedraza/google-slides-timer-chrome/releases
+- **Tags**: https://github.com/duckwaresoft/google-slides-timer-chrome/tags
+- **Releases**: https://github.com/duckwaresoft/google-slides-timer-chrome/releases
 
 ### Running Tests
 

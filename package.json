@@ -12,6 +12,10 @@
   "keywords": ["chrome-extension", "google-slides", "timer", "presentation", "slides"],
   "author": "Duckwaresoft",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/duckwaresoft/google-slides-timer-chrome.git"
+  },
   "devDependencies": {
     "@types/chrome": "^0.1.36",
     "@types/jest": "^30.0.0",
