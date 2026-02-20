@@ -1,5 +1,8 @@
 # Slides Timer for Google Slides
 
+[![Tests & Coverage](https://github.com/elpatopedraza/google-slides-timer-chrome/actions/workflows/test-coverage.yml/badge.svg)](https://github.com/elpatopedraza/google-slides-timer-chrome/actions/workflows/test-coverage.yml)
+[![codecov](https://codecov.io/gh/elpatopedraza/google-slides-timer-chrome/branch/main/graph/badge.svg)](https://codecov.io/gh/elpatopedraza/google-slides-timer-chrome)
+
 A Chrome extension that replaces placeholder text in Google Slides with real-time timer and session information during presentations. Add dynamic countdowns, session schedules, and live clocks to your presentations.
 
 ## Features
